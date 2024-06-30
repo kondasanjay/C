@@ -19,4 +19,10 @@ public class Ipl2026 {
 
 
 
+    public String name2="veraiah";
+
+
+    public String name2="laxmipathi";
+
+
 }
